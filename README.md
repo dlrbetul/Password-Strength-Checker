@@ -1,6 +1,6 @@
 # Password-Strength-Checker
-**Staj döneminde yapmış olduğum küçük proje.**
-Eksiklikleri çok.Gelişmeye devam edecek.
+Staj döneminde yapmış olduğum küçük proje.
+-Eksiklikleri çok.Gelişmeye devam edecek.
 
 istenilenler:
 1.Şifre gücünün değerlendirilmesi5.	Jquery ve bootstrap kütüphaneleri yerel olarak kullanılacak 
