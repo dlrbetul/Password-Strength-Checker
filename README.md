@@ -1,10 +1,10 @@
 # Password-Strength-Checker
-Staj döneminde yapmış olduğum küçük proje.
+- Staj döneminde yapmış olduğum küçük proje.
 - Eksiklikleri çok.Gelişmeye devam edecek.
 
-istenilenler:
-1.Şifre gücünün değerlendirilmesi5.	Jquery ve bootstrap kütüphaneleri yerel olarak kullanılacak 
-2.Sık kullanılan şifreleri yerel bir dosyadan kontrol etmesi
+- istenilenler:
+1. Şifre gücünün değerlendirilmesi5.	Jquery ve bootstrap kütüphaneleri yerel olarak kullanılacak 
+2. Sık kullanılan şifreleri yerel bir dosyadan kontrol etmesi
 3.Kütüphanelerin yerel olarak kullanılması 
 4.Şifre üretme fonksiyonu
 
