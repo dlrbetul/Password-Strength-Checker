@@ -1,0 +1,57 @@
+.bg{
+    background-color:#d9d9d9;
+}
+.strength0 {
+    width: 1px;
+    background:  #ff1a1a;
+    transition: .3s ease;
+}
+
+.strength1 {
+    width: 1px;
+    background:  #ff1a1a;
+    transition: .3s ease;
+}
+
+.strength2 { 
+    width: 167px;
+    background:#ff3333;
+    transition: .3s ease;
+}
+
+.strength3 {
+    width: 334px;
+    background: #ff8533;
+    transition: .3s ease;
+}
+
+.strength4 {
+    width: 501px;
+    background: #ffff4d;
+    transition: .3s ease;
+}
+
+.strength5 {
+    background: #88ff4d;
+    width: 668px;
+    transition: .3s ease;
+}
+
+.strength6 {
+    background: #339900;
+    width: 835px;
+    transition: .3s ease;
+}
+.strength7 {
+    background: #339900;
+    width: 1002px;
+    transition: .3s ease;
+}
+
+.valid {
+    color: green;
+}
+
+.invalid {
+    color: red;
+}
