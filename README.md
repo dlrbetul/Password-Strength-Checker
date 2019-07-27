@@ -1,5 +1,5 @@
 # Password-Strength-Checker
-Staj döneminde yapmış olduğum küçük proje.
+**Staj döneminde yapmış olduğum küçük proje.**
 Eksiklikleri çok.Gelişmeye devam edecek.
 
 istenilenler:
