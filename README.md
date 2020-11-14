@@ -4,7 +4,7 @@
   Gelişmeye devam edecek.
 
 İstenilenler:
-1. Şifre gücünün değerlendirilmesi5.	Jquery ve bootstrap kütüphaneleri yerel olarak kullanılacak 
+1. Şifre gücünün değerlendirilmesi.	Jquery ve bootstrap kütüphaneleri yerel olarak kullanılacak 
 2. Sık kullanılan şifreleri yerel bir dosyadan kontrol etmesi
 3. Kütüphanelerin yerel olarak kullanılması 
 4. Şifre üretme fonksiyonu
